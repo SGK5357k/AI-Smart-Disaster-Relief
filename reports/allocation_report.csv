@@ -1,0 +1,2 @@
+status,center_id,area_id,distance_km,food_allocated,water_allocated,medicine_allocated,rescue_teams_allocated,hospital_id,shelter_id,shelter_capacity
+SUCCESS,RC_00,AREA_0004,281.3,1200,2500,180,4,Not Available,SHEL_003,2084
